@@ -42,7 +42,7 @@ a:active { text-decoration: none; }
   position: relative;
   border: 2px solid;
   border-color: white;
-  border-radius: 150px;
+  border-radius: 360px;
 }
 #about {
   float: left;
